@@ -57,4 +57,3 @@ function insert(arr) {
 }
 
 console.log(insert(p));
-
